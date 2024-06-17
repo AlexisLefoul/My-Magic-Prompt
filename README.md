@@ -31,20 +31,20 @@ Fournit des fonctions d'assistance utilisées dans d'autres scripts pour des tâ
 
 ### Installation
 Clonez le dépôt sur votre machine locale :
-
+```bash
 git clone https://github.com/AlexisLefoul/My-Magic-Prompt.git
-
+```
 Naviguez dans le répertoire du projet :
-
+```bash
 cd My-Magic-Prompt
-
+```
 ### Utilisation
 
 Pour utiliser le script principal, exécutez :
-
+```bash
 ./main.sh
-
+```
 Assurez-vous que tous les scripts sont exécutables :
-
+```bash
 chmod +x *.sh
-
+```
